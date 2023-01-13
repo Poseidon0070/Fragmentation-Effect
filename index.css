@@ -1,0 +1,10 @@
+body{
+    margin: 0px;
+    overflow: hidden; /* Hide scrollbars */
+}
+canvas{
+    border: 1px solid black;
+}
+h1{
+    color : white;
+}
